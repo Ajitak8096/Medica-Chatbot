@@ -60,7 +60,8 @@ Found a bug? Want to improve the diagnosis accuracy? Open an issue or submit a P
 - 📝 **Receives analysis** alongside your verbal symptoms
 - 💡 **Pro Tip:** Take photos in good lighting with the affected area clearly visible
 
-![Screenshot of image upload interface](samples/screenshot_upload.png) *(Example: Uploading a skin photo)*
+![Screenshot of image upload interface](![Screenshot 2025-05-11 162404](https://github.com/user-attachments/assets/15d2d95c-8050-4b08-b5fb-30ed530197dc)
+) *(Example: Uploading a skin photo)*
 
 ## ✨ Key Features
 | Feature | Description |
@@ -80,11 +81,6 @@ Found a bug? Want to improve the diagnosis accuracy? Open an issue or submit a P
 - "Does this mole look abnormal?" 
 - "What could this red rash be?"
 - "Is this cut infected?"
-
-## 📂 Sample Images
-Try these test images from the `samples/` folder:
-- `[sample_rash.jpg](https://1drv.ms/i/c/b5604f4432387328/ES7UH0ZJbB1Gr9kTvBkOxVoBuqGeAKolYvqO20_uXsQXVg?e=KtUxaE)` - Allergic reaction example
-- `sample_eczema.jpg` - Chronic skin condition
 
 ## 🌟 Why Image Analysis Matters
 > "During my hostel scare, I wasted hours trying to *describe* my rash through texts. Photos could have provided immediate clarity." - Creator
